@@ -8,7 +8,7 @@ Intoduction
 * There are a couple of different locations
 * You can move from one location to another by entering E, W, N or S
 * After moving to a new location a random event with a random math task is being generated
-* At the start of the game you will have 200 heath points
+* At the start of the game you will have 200 health points
 
 Setup
 ----
