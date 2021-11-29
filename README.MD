@@ -2,7 +2,7 @@ Math Adventure Game
 ========
 
 
-Intoduction
+Introduction
 ----
 * It is a simple game where you can move around and solve easy math tasks
 * There are a couple of different locations
